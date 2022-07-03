@@ -1,5 +1,6 @@
 # README
-
+MyBlog is one of the professional Blog Website. I used Blog for personal Post, Create user and the person can upload, Login and Post his or her website
+==========================================
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
